@@ -1,0 +1,21 @@
+.RecentNews {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  flex: 0 0 25%;
+  text-align:start;
+}
+
+.RecentNews h3 {
+  text-decoration: underline;
+}
+
+.headline{
+  transition: all .3s;
+}
+
+.headline:hover{
+  font-size: 1.6rem;
+  cursor: pointer;
+}

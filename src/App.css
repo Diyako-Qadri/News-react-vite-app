@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'newYorkTimes';
+  src: url(
+    './assets/fonts/chomsky-webfont.woff'
+  );
+}
+
+#root {
+  max-width: 100%;
+  margin: 0;
+  text-align: center;
+}
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+h1 {
+  font-family: "newYorkTimes";
+}

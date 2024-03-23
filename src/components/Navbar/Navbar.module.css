@@ -1,0 +1,22 @@
+.Navbar {
+    background: black; 
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 14px;
+   
+}
+
+.Navbar a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.Navbar a:hover{
+    background-color: #fff;
+    color: black;
+}

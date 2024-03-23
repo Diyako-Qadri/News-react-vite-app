@@ -1,0 +1,25 @@
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 11px;
+}
+h1 {
+  margin: 10px; 
+  
+}
+
+.callbtn {
+  align-items: center;
+  background: none;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 9rem;
+}
+
+.socialIcons img,
+.phoneIcons {
+  margin: 5px;
+  width: 20px;
+}

@@ -1,0 +1,19 @@
+.MainArticle{
+    border: 1px solid black;
+   flex: 0 0 calc(50% - 32px);
+   
+}
+
+.image {
+    width: 95%;
+    margin: 10px;
+}
+
+.headline{
+    transition: all .3s;
+}
+
+.headline:hover{
+    font-size: 1.6rem;
+    cursor: pointer;
+}

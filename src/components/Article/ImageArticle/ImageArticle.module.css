@@ -1,0 +1,14 @@
+.featurArticle {
+    background-color: blanchedalmond;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.headline{
+    transition: all .3s;
+}
+
+.headline:hover{
+    font-size: 1.6rem;
+    cursor: pointer;
+}
